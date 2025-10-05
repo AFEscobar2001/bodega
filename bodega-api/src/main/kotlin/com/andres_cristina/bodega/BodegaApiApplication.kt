@@ -9,3 +9,4 @@ class BodegaApiApplication
 fun main(args: Array<String>) {
 	runApplication<BodegaApiApplication>(*args)
 }
+
